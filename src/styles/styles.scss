@@ -1,0 +1,9 @@
+/* General */
+@import './base/settings'; 
+@import './base/base';
+
+/* Components */
+@import './components/Card/Card';
+@import './components/Dashboard/Dashboard';
+@import './components/FavoriteList/FavoriteList';
+@import './components/Modal/Modal'

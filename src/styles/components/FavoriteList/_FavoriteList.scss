@@ -1,0 +1,25 @@
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 19px;
+    padding-left: 13px;
+    padding-right: 30px;
+    width: 240px;
+    margin-left: -200px;
+}
+
+.container img{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    margin-right: 13px;
+}
+
+.list-container button{
+    background-color: transparent;
+    border:transparent;
+    width: 24px;
+    height: 24px;
+}
+
